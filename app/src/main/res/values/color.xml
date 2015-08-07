@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="color1">#FFFFFF</color><!--白色 -->  
+<color name="color2">#FFFFF0</color><!--象牙色 -->    
+<color name="color3">#FFC0CB</color>
+<color name="color4">#FFFAF0</color><!--花白色 -->  
+<color name="color5">#FF7F00</color>
+<color name="color6">#EE7600</color>  
+</resources>
